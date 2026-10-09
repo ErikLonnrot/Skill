@@ -1,0 +1,43 @@
+1.Whetting Your Appetite 
+  .If you do much work on computers,eventually you find that there's some
+  task you'd like automate.If you're a professional software developer,you 
+  may have to work with several C/C++/Java libraries but find the usual 
+  write/compile/test/re-compile cycle is too slow.
+  
+  .You could write a Unix shell script or Windows batch files for some if these
+  tasks,but shell scripts are best at moving around files and changing text data,
+  not well-suited for GUI applications or games.You could write a C/C++/Java program,
+  but it can take a lot of develepment time to get even a first-draft program.Python
+  is simpler use,available on Windows,macOS, and Unix operating systems,and will help 
+  you get the job done more quickly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
